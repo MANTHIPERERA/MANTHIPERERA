@@ -1,4 +1,4 @@
-Hello There fellow developer! 🤠
+Hello there, fellow developer! 🤠
 
 <p align="center">
 </p>
